@@ -12,7 +12,6 @@
 		<failOnMissingWebXml>false</failOnMissingWebXml>
 	</properties>
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/jakarta.platform/jakarta.jakartaee-api -->
 		<dependency>
 			<groupId>jakarta.platform</groupId>
 			<artifactId>jakarta.jakartaee-api</artifactId>
